@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "crack apps",
+  "description": "go to chanel fast",
+  "version": "1.00",
+  "icons": { "128": "icon_128.png" },
+  "action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
